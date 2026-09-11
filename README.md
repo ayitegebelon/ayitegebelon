@@ -214,7 +214,9 @@ A software project focused on organizing healthcare-related workflows and improv
 
 <div align="center">
 
-## Contribution Snake 🐍
+<div align="center">
+
+### Contribution Snake 🐍
 
 <sub>Eats through my commit history, one square at a time. Regenerates daily via GitHub Actions.</sub>
 
@@ -226,8 +228,6 @@ A software project focused on organizing healthcare-related workflows and improv
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05080D,100:12372A&height=2&section=header" width="100%" />
-
-<div align="center">
 
 ## How I Approach a Problem
 
