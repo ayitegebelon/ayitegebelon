@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Bespoke animated terminal — hand-built SVG, not a third-party service, so it will never go down or look generic. -->
-<img src="./assets/terminal-banner.svg" width="760" alt="Terminal intro animation" />
+<img src="terminal-banner.svg" width="760" alt="Terminal intro animation" />
 
 <br/><br/>
 
